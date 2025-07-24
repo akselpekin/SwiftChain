@@ -1,3 +1,5 @@
+![art](SwiftChainhain.png)
+
 ### SwiftChain
 
 *Inspired by the original [NaiveChain](https://github.com/lhartikk/naivechain) by* **@lhartikk**.
