@@ -1,6 +1,6 @@
 ### SwiftChain
 
-Inspired by the original [NaiveChain](https://github.com/lhartikk/naivechain) by **@lhartikk**.
+*Inspired by the original [NaiveChain](https://github.com/lhartikk/naivechain) by* **@lhartikk**.
 
 A minimal, educational blockchain implemented in Swift.  It runs as an interactive CLI, mines proof-of-work blocks in milliseconds, persists to a local JSON cache, and supports a handful of demo-grade "smart"-contract types.
 
