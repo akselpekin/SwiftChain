@@ -97,7 +97,7 @@ public class Blockchain {
         balances[account, default: 0]
     }
 
-    func saveToCache() {
+    public func saveToCache() {
         let encoder = JSONEncoder()
         encoder.outputFormatting = .prettyPrinted
         do {
