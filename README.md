@@ -69,11 +69,11 @@ Quick Start
 ```
 
 ```diff
--Tuning Proof-of-Work
++Tuning Proof-of-Work
 
 !Open Blockchain.swift and edit:
 
 !private let powPrefix = "00" // fewer zeros → faster mining
 
-!Increasing zeros slows mining exponentially.
+-Increasing zeros slows mining exponentially.
 ```
