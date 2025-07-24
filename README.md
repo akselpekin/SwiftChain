@@ -1,4 +1,4 @@
-![art](SwiftChainhain.png)
+![art](SwiftChain.png)
 
 ### SwiftChain
 
