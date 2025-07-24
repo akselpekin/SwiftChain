@@ -28,9 +28,9 @@ History	Per-account transaction log
 Project Structure
 
 Sources/
-├── main.swift        # Entry + CLI lifecycle
-├── Blockchain.swift  # Mining, validation, cache, balances
-└── Contracts.swift   # Contract models, (de)serialise, signatures
+├── CORE/SwiftChain.swift   # Entry + CLI lifecycle
+├── LOGIC/blockchain.swift  # Mining, validation, cache, balances
+└── CONTRACT/contract.swift # Contract models, (de)serialise, signatures
 blockchain.json       # Cache
 README.md
 Package.swift
