@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .executableTarget(
             name: "swiftchain",
-            dependencies: ["LOGIC"],
+            dependencies: ["LOGIC", "CONTRACT"],
             path: "Sources/CORE"
         ),
         .target(
